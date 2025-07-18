@@ -60,7 +60,7 @@ export default function App() {
 
       <div className="w-full flex flex-col justify-center px-6 py-8 md:p-16 space-y-8">
         <div>
-          <h1 className="text-2xl md:text-4xl font-bold leading-tight">
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight text-very-dark-gray ">
             Discover innovative ways to decorate
           </h1>
           <p className="mt-4 text-gray-600 md:max-w-md">
