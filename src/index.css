@@ -6,8 +6,6 @@
   --text-body-size: 16px;
   --color-dark-gray: hsl(0, 0%, 63%);
   --color-very-dark-gray: hsl(0, 0%, 27%);
-  --color-black: hsl(0, 0%, 0%);
-  --color-white: hsl(0, 0%, 100%);
 }
 
 :root {
